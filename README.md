@@ -23,3 +23,4 @@ c. GraphQL, используя любой Java engine;
 c.  Сравнить Rest \ Soap \ GraphQL реализации;
 d.  поговорить с одногруппниками и сравнить различные Rest \ Soap \ GraphQL Java engines;
 3)  Соединить все вместе UI и Web Service;
+ 
